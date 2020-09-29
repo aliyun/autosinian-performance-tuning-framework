@@ -1,6 +1,6 @@
 # AutoSinian MLPERF Benchmark Results
 ## v0.7_inference_open
-This result follows the policies of mlperf v0.7 inference open division. It passed the submission checker, but it is not an official submission, thus not reviewed by MLPERF group.
+This result follows the [policies](https://github.com/mlperf/inference_policies/blob/master/inference_rules.adoc) of mlperf v0.7 inference open division. It complies with the [directory structure](https://github.com/mlperf/policies/blob/master/submission_rules.adoc#submission-content) of a submission, and passes the submission checker. But it is not an official submission, thus not reviewed by MLPERF group.
 
 We put detailed steps for replication in the result, and encourage everyone to reproduce our result. Numbers don't lie.
 
