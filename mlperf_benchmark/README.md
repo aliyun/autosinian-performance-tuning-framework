@@ -5,7 +5,7 @@ This result follows the policies of mlperf v0.7 inference open division. It pass
 We put detailed steps for replication in the result, and encourage everyone to reproduce our result. Numbers don't lie.
 
 ### detailed results
-see [summary.csv](v0.7_inference_open/results/summary.csv)
+Current result is for offline scenario of image classification. Details see [summary.csv](v0.7_inference_open/results/summary.csv)
 
 ### Replication
 On [A100](v0.7_inference_open/measurements/alibaba_cloud_Sinian_A100/OFAnet-AutoSinian/Offline/README.md)
