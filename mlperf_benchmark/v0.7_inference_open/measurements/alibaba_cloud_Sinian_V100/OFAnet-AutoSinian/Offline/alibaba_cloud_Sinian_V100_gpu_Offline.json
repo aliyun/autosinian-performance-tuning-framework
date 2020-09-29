@@ -1,0 +1,7 @@
+{
+    "starting_weights_filename": "pretrained/best_model/init",
+    "weight_transformations": "quantization, affine fusion, fine-tuning",
+    "weight_data_types": "int8", 
+    "input_data_types": "fp32", 
+    "retraining": "No"
+}

@@ -1,0 +1,8 @@
+INFO:main:---
+INFO:main:Results open/Alibaba/results/alibaba_cloud_Sinian_V100/OFAnet-AutoSinian/Offline 24212.4
+INFO:main:Results open/Alibaba/results/alibaba_cloud_Sinian_A100/OFAnet-AutoSinian/Offline 80156.8
+INFO:main:Results open/Alibaba/results/alibaba_cloud_Sinian_T4/OFAnet-AutoSinian/Offline 16014.7
+INFO:main:---
+INFO:main:---
+INFO:main:Results=3, NoResults=0
+INFO:main:SUMMARY: submission looks OK

@@ -1,0 +1,21 @@
+{
+    "submitter": "Alibaba",
+    "division": "open",
+    "system_type": "datacenter",
+    "status": "available",
+    "system_name": "Alibaba Cloud Sinian Platform A100",
+    "number_of_nodes": 1,
+    "host_processors_per_node": 2,
+    "host_processor_model_name": "Intel Cascade Lake",
+    "host_processor_core_count": 52,
+    "host_memory_capacity": "755GB",
+    "host_storage_type": "SSD",
+    "host_storage_capacity": "3.6TB",
+    "accelerators_per_node": 1,
+    "accelerator_model_name": "Nvidia A100-SXM4-40GB",
+    "accelerator_memory_configuration": "HBM2",
+    "accelerator_memory_capacity": "40GB",
+    "framework": "TensorRT-7.2.0.14, CUDA 11.0, cuDNN 8.0.2, Pytorch 1.7.0a0+9525268",
+    "other_software_stack": "docker 19.03.12, python 3.6.9, numpy 1.19.1, torchvision 0.8.0a0+8c7e7bb",
+    "operating_system": "Alibaba Group Enterprise Linux Server 7.2 (Paladin)"
+}
