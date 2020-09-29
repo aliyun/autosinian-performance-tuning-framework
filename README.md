@@ -4,7 +4,7 @@ Sinian is Alibaba’s compiler-based heterogeneous hardware acceleration platfor
 AutoSinian is the automatic performance optimization framework in Sinian. By auto-tuning and joint-optimizing the heterogeneous system performance across algorithm, system, framework and hardware library layers, AutoSinian serves as the core component in Sinian to maximize performance for machine learning applications with very little engineer efforts in case-by-case performance tuning.
 
 ## MLPERF Benchmark
-See https://mlperf.org/
+About [MLPERF](https://mlperf.org)
 
 ### Our Result
 
