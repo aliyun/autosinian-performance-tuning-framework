@@ -6,4 +6,12 @@ AutoSinian is the automatic performance optimization framework in Sinian. By aut
 ## MLPERF Benchmark
 See https://mlperf.org/
 
-Our [result](mlperf_benchmark)
+### Our Result
+
+|GPU| Model | MlperfModel | Offline(IPS) | Accuracy(%) |
+|-------|:------------------:|:---------------:|:-------------:|:------------:|
+|A100x1| OFAnet-AutoSinian | resnet50 v1.5 |**80156.8** | 75.714 | 
+|V100x1| OFAnet-AutoSinian | resnet50 v1.5 | **24212.4** | 75.806 |
+|T4x1|OFAnet-AutoSinian| resnet50 v1.5 | **16014.7** | 75.714 |
+
+more [details](mlperf_benchmark)
